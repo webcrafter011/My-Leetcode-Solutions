@@ -32,9 +32,8 @@ class Solution:
                     zeroes -= 1
                 l += 1
             
-            if zeroes <= k:
-                currLen = r - l + 1
-                maxLen = max(maxLen, currLen)
+            currLen = r - l + 1
+            maxLen = max(maxLen, currLen)
             r += 1
         
         return maxLen
