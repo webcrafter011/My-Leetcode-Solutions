@@ -9,13 +9,13 @@ class Solution:
         
         # return maxSum
 
-        right_sum = 0
-        maxSum = 0
+        right_sum = sum(cardPoints[:k])
+        maxSum = right_sum
         n = len(cardPoints)
 
-        for i in range(k):
-            right_sum += cardPoints[i]
-            maxSum = max(right_sum, maxSum)
+        # for i in range(k):
+        #     right_sum += cardPoints[i]
+        #     maxSum = max(right_sum, maxSum)
         
         left_sum = 0
         for j in range(k):
