@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
@@ -91,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
