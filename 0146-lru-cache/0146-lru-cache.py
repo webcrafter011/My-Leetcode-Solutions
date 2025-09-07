@@ -1,33 +1,31 @@
 class Node:
     def __init__(self, key, value):
-        self.key = key
         self.value = value
-        self.next = None
+        self.key = key
         self.prev = None
+        self.next = None
+    
 
 class LRUCache:
     def __init__(self, capacity: int):
-        self.cache = {} # key -> Node 
+        self.cache = {} # cache to key, val pair
         self.capacity = capacity
 
-        # dummy head and tail 
-        self.head = Node(0, 0) # left - Most Recently Used
-        self.tail = Node(0, 0) # right - Least Recently Used
+        # head and tail of DLL
+        self.head = Node(0, 0) # <-- Most recently used 
+        self.tail = Node(0, 0) # <-- Least recently used
         self.head.next = self.tail
         self.tail.prev = self.head
     
-    # helper function to insert in DLL
     def _insert(self, node):
         node.next = self.head.next
         node.prev = self.head
-        node.next.prev = node
+        self.head.next.prev = node
         self.head.next = node
     
-    # helper functoin to remove node
     def _remove(self, node):
-        prv, nxt = node.prev, node.next
-        prv.next = nxt
-        nxt.prev = prv
+        node.prev.next = node.next
+        node.next.prev = node.prev
 
     def get(self, key: int) -> int:
         if key in self.cache:
@@ -40,12 +38,11 @@ class LRUCache:
 
     def put(self, key: int, value: int) -> None:
         if key in self.cache:
-            # remove already existing node
             self._remove(self.cache[key])
-
+        
         node = Node(key, value)
-        self.cache[key] = node
         self._insert(node)
+        self.cache[key] = node
 
         if len(self.cache) > self.capacity:
             lru = self.tail.prev
