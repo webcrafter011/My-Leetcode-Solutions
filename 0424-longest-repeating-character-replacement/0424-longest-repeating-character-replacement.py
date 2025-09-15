@@ -8,8 +8,9 @@ class Solution:
             freqs[s[right]] = freqs.get(s[right], 0) + 1
             maxFreq = max(maxFreq, freqs[s[right]])
 
-            while (right - left + 1) - maxFreq > k:
+            if (right - left + 1) - maxFreq > k:
                 freqs[s[left]] -= 1
+                maxFreq = 0
                 left += 1
             
             maxLen = max(maxLen, right - left + 1)
