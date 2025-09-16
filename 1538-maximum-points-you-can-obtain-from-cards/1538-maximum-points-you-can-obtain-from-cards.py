@@ -1,26 +1,14 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
-        # maxSum = 0
-        # n = len(cardPoints)
-        # for i in range(k + 1):
-        #     left_sum = sum(cardPoints[:i])
-        #     right_sum = sum(cardPoints[n - (k - i):])
-        #     maxSum = max(maxSum, left_sum + right_sum)
-        
-        # return maxSum
+        leftSum = rightSum = 0
 
-        right_sum = sum(cardPoints[:k])
-        maxSum = right_sum
-        n = len(cardPoints)
-
-        # for i in range(k):
-        #     right_sum += cardPoints[i]
-        #     maxSum = max(right_sum, maxSum)
+        for i in range(k):
+            leftSum += cardPoints[i]
         
-        left_sum = 0
-        for j in range(k):
-            right_sum -= cardPoints[k - j - 1]
-            left_sum += cardPoints[n - j - 1]
-            maxSum = max(maxSum, right_sum + left_sum)
+        maxSum = leftSum
+        for i in range(k):
+            leftSum -= cardPoints[k - 1 - i]
+            rightSum += cardPoints[(len(cardPoints) - 1) - i]
+            maxSum = max(maxSum, leftSum + rightSum)
         
         return maxSum
