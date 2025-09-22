@@ -1,6 +1,6 @@
 class Solution:
     def subarraysWithKDistinct(self, nums: List[int], k: int) -> int:
-        def getMax(k):
+        def atMost(k):
             count = left = 0
             freqs = {}
 
@@ -14,7 +14,7 @@ class Solution:
                     left += 1
                 
                 count += right - left + 1
-
+            
             return count
-                        
-        return getMax(k) - getMax(k - 1)
+        
+        return atMost(k) - atMost(k - 1)
