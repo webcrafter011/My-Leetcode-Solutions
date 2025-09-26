@@ -15,7 +15,7 @@ class Solution:
         
         dummy = ListNode(0)
         tail = dummy
-        
+
         while heap:
             val, i, node = heapq.heappop(heap)
             tail.next = node
