@@ -10,13 +10,13 @@ class Solution:
 
         time = 0
         while heap or dq:
-            time += 1
             if heap:
                 cnt = 1 + heapq.heappop(heap)
                 if cnt:
                     dq.append([cnt, time + n])
             if dq and dq[0][1] == time:
                 heapq.heappush(heap, dq.popleft()[0])
+            time += 1
         
         return time
                 
