@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -80,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Hash Table
 |  |
@@ -192,4 +195,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
