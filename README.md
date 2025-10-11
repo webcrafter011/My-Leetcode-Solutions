@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Hash Table
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
