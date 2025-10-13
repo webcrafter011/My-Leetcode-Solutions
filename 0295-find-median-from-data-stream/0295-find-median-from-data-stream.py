@@ -1,20 +1,36 @@
+import heapq
+
 class MedianFinder:
 
     def __init__(self):
-        self.arr = []
+        # we will have two heaps
+        # 1. max-heap to keep track of left half values
+        # we need to push negative values in left half
+        self.left = []
+
+        # 2. min-heap to kep track of right half values
+        # no need to push negative values in the right half 
+        self.right = []
 
     def addNum(self, num: int) -> None:
-        self.arr.append(num)
+        heapq.heappush(self.left, -num)
+        if self.left and self.right and -self.left[0] > self.right[0]:
+            val = -heapq.heappop(self.left)
+            heapq.heappush(self.right, val)
+
+        # if uneven size (~)
+        if len(self.left) >  1 + len(self.right):
+            val = -heapq.heappop(self.left)
+            heapq.heappush(self.right, val)
+        if len(self.right) > 1 + len(self.left):
+            val = heapq.heappop(self.right)
+            heapq.heappush(self.left, -val)
+        
 
     def findMedian(self) -> float:
-        self.arr.sort()
-        if len(self.arr) & 1:
-            return float(self.arr[len(self.arr) // 2])
-        else:
-            return (self.arr[len(self.arr) // 2] + self.arr[(len(self.arr) // 2) - 1]) / 2
-
-
-# Your MedianFinder object will be instantiated and called as such:
-# obj = MedianFinder()
-# obj.addNum(num)
-# param_2 = obj.findMedian()
+        if len(self.left) > len(self.right):
+            return -self.left[0]
+        if len(self.right) > len(self.left):
+            return self.right[0]
+        
+        return (-self.left[0] + self.right[0]) / 2
