@@ -12,11 +12,10 @@ class Solution:
         if not root:
             return 0
 
-        height = 0
         q = deque([root])
 
         def bfs(node):
-            nonlocal height
+            height = 0
             while q:
                 level_size = len(q)
                 height += 1
@@ -28,6 +27,6 @@ class Solution:
                         q.append(node.left)
                     if node.right:
                         q.append(node.right)
+            return height
 
-        bfs(root)
-        return height
+        return bfs(root)
