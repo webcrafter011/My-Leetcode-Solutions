@@ -13,24 +13,21 @@ class Solution:
             return 0
 
         height = 0
-        res = []
         q = deque([root])
 
         def bfs(node):
+            nonlocal height
             while q:
-                level_nodes = []
                 level_size = len(q)
+                height += 1
 
                 for _ in range(level_size):
                     node = q.popleft()
-                    level_nodes.append(node.val)
 
                     if node.left:
                         q.append(node.left)
                     if node.right:
                         q.append(node.right)
 
-                res.append(level_nodes)
-
         bfs(root)
-        return len(res)
+        return height
