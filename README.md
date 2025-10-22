@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -241,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -266,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
