@@ -12,21 +12,16 @@ class Solution:
         if not root:
             return 0
 
-        q = deque([root])
+        # height = 0
+        # q = deque([root])
 
-        def bfs(node):
-            height = 0
-            while q:
-                level_size = len(q)
-                height += 1
-
-                for _ in range(level_size):
-                    node = q.popleft()
-
-                    if node.left:
-                        q.append(node.left)
-                    if node.right:
-                        q.append(node.right)
-            return height
-
-        return bfs(root)
+        # while q:
+        #     height += 1
+        #     for _ in range(len(q)):
+        #         node = q.popleft()
+        #         if node.left:
+        #             q.append(node.left)
+        #         if node.right:
+        #             q.append(node.right)
+        
+        return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))               
