@@ -4,24 +4,22 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
-    def buildTree(self, preorder, inorder):
-        in_map = {val: idx for idx, val in enumerate(inorder)}
+    def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
+        idx_map = {val: idx for idx, val in enumerate(inorder)}
+        self.pre_idx = 0
 
-        def helper(pre_start, pre_end, in_start, in_end):
-            if pre_start > pre_end or in_start > in_end:
-                return None
+        def create_binary(start, end):
+            if start > end:
+                return 
+            
+            root = TreeNode(preorder[self.pre_idx])
+            index = idx_map[preorder[self.pre_idx]]
+            self.pre_idx += 1
 
-            root_val = preorder[pre_start]
-            root = TreeNode(root_val)
-
-            in_root = in_map[root_val]
-            nums_left = in_root - in_start
-
-            root.left = helper(pre_start + 1, pre_start + nums_left, in_start, in_root - 1)
-            root.right = helper(pre_start + nums_left + 1, pre_end, in_root + 1, in_end)
+            root.left = create_binary(start, index - 1)
+            root.right = create_binary(index + 1, end)
 
             return root
-
-        return helper(0, len(preorder) - 1, 0, len(inorder) - 1)
+        
+        return create_binary(0, (len(inorder) - 1))
