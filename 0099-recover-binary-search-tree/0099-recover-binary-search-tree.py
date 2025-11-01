@@ -10,28 +10,39 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        self.prev = TreeNode(float('-inf'))
-        self.middle = None
-        self.first = None
-        self.last = None
-        def inorder(node):
-            if not node:
-                return
-            
-            inorder(node.left)
-            if self.prev and self.prev.val > node.val:
-                if not self.first:
-                    self.first = self.prev
-                    self.middle = node
+        pred = TreeNode(float('-inf'))
+        first = middle = last = None
+
+        curr = root
+        while curr:
+            if not curr.left:
+                if pred.val > curr.val:
+                    if not first:
+                        first = pred
+                        middle = curr
+                    else:
+                        last = curr
+                pred = curr
+                curr = curr.right
+            else:
+                prev = curr.left
+                while prev.right and prev.right != curr:
+                    prev = prev.right
+                if not prev.right:
+                    prev.right = curr
+                    curr = curr.left
                 else:
-                    self.last = node
-            self.prev = node
-
-            inorder(node.right)
+                    prev.right = None
+                    if prev.val > curr.val:
+                        if not first:
+                            first = pred
+                            middle = curr
+                        else:
+                            last = curr
+                    pred = curr
+                    curr = curr.right
         
-        inorder(root)
-
-        if self.first and self.last:
-            self.first.val, self.last.val = self.last.val, self.first.val
-        elif self.first and self.middle:
-            self.first.val, self.middle.val = self.middle.val, self.first.val
+        if first and last:
+            first.val, last.val = last.val, first.val
+        elif first and middle:
+            first.val, middle.val = middle.val, first.val
