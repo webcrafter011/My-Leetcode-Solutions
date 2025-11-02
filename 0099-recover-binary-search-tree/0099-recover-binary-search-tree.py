@@ -4,45 +4,36 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def recoverTree(self, root: Optional[TreeNode]) -> None:
         """
         Do not return anything, modify root in-place instead.
         """
-        pred = TreeNode(float('-inf'))
-        first = middle = last = None
+        self.first = self.middle = self.last = None
+        self.prev = TreeNode(float('-inf'))
 
-        curr = root
-        while curr:
-            if not curr.left:
-                if pred.val > curr.val:
-                    if not first:
-                        first = pred
-                        middle = curr
-                    else:
-                        last = curr
-                pred = curr
-                curr = curr.right
-            else:
-                prev = curr.left
-                while prev.right and prev.right != curr:
-                    prev = prev.right
-                if not prev.right:
-                    prev.right = curr
-                    curr = curr.left
+        def inorder(node):
+            if not node:
+                return
+            
+            inorder(node.left)
+
+            # current node operation
+            if self.prev.val > node.val:
+                if not self.first:
+                    self.first = self.prev
+                    self.middle = node
                 else:
-                    prev.right = None
-                    if prev.val > curr.val:
-                        if not first:
-                            first = pred
-                            middle = curr
-                        else:
-                            last = curr
-                    pred = curr
-                    curr = curr.right
+                    self.last = node
+            
+            self.prev = node
+
+            inorder(node.right)
         
-        if first and last:
-            first.val, last.val = last.val, first.val
-        elif first and middle:
-            first.val, middle.val = middle.val, first.val
+        inorder(root)
+        
+
+        if self.first and self.last:
+            self.first.val, self.last.val = self.last.val, self.first.val
+        elif self.first and self.middle:
+            self.first.val, self.middle.val = self.middle.val, self.first.val
