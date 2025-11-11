@@ -5,33 +5,42 @@ class Solution:
         """
         rows, cols = len(board), len(board[0])
         
-        def dfs(r, c):
-            if r < 0 or c < 0 or r >= rows or c >= cols or board[r][c] != 'O':
-                return
-            board[r][c] = 'T'
-            dfs(r + 1, c)
-            dfs(r - 1, c)
-            dfs(r, c + 1)
-            dfs(r, c - 1)
+        def bfs(r, c):
+            q = deque([(r, c)])
+
+            directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+
+            while q:
+                r, c = q.popleft()
+                if board[r][c] != 'O':
+                    continue
+                else:
+                    board[r][c] = 'T'
+
+                for dr, dc in directions:
+                    row, col = dr + r, dc + c
+                    if 0 <= row < rows and 0 <= col < cols and board[row][col] == 'O':
+                        q.append((row, col))
+
 
 
         # process top and bottom row
         for j in range(cols):
             # top row
             if board[0][j] == 'O':
-                dfs(0, j)
+                bfs(0, j)
             # bottom row
             if board[rows - 1][j] == 'O':
-                dfs(rows - 1, j)
+                bfs(rows - 1, j)
 
         # process left and right column
         for i in range(rows):
             # left col
             if board[i][0] == 'O':
-                dfs(i, 0)
+                bfs(i, 0)
             # right col
             if board[i][cols - 1] == 'O':
-                dfs(i, cols - 1)
+                bfs(i, cols - 1)
             
         
         for i in range(rows):
