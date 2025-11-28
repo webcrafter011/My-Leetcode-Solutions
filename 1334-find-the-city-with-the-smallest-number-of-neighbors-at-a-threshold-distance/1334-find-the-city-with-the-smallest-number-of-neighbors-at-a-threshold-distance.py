@@ -8,6 +8,7 @@ class Solution:
         
         for u in range(n):
             cost[u][u] = 0
+        
 
         for via in range(n):
             for i in range(n):
@@ -17,20 +18,21 @@ class Solution:
                             cost[i][j],
                             cost[i][via] + cost[via][j]
                         )
-
-        counts = [0] * n
+        
+        counts = []
         for i in range(n):
             cnt = 0
             for j in range(n):
                 if i != j and cost[i][j] <= distanceThreshold:
                     cnt += 1
-            counts[i] = cnt
+            counts.append(cnt)
+        
 
         city = -1
         minCount = float('inf')
         for i, cnt in enumerate(counts):
-            if cnt <= minCount:
+            if minCount >= cnt:
                 minCount = cnt
                 city = i
-
+        
         return city
