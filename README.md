@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
@@ -402,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
