@@ -64,7 +64,7 @@ class Solution:
                 if 0 <= nr < n and 0 <= nc < n and open_cells[nr][nc]:
                     dsu.union_by_rank(index(r, c), index(nr, nc))
             
-            if dsu.find_par(0) == dsu.find_par(index(n - 1, n - 1)):
+            if dsu.find_par(0) == dsu.find_par(n * n - 1):
                 return h
 
 
