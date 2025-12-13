@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Bucket Sort
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Iterator
 |  |
