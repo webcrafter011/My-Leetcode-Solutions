@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
