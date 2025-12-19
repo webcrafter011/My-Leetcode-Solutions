@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0542-01-matrix) |
