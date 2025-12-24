@@ -2,21 +2,31 @@ from functools import cache
 
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        
-        @cache
-        def solve(i, summ):
-            if i == 0:
-                count = 0
-                if (nums[i] + summ) == target:
-                    count += 1
-                if (summ - nums[i]) == target:
-                    count += 1
-                return count
-            
-            add = solve(i - 1, summ + nums[i])
-            remove = solve(i - 1, summ - nums[i])
-
-            return add + remove
-        
         n = len(nums)
-        return solve(n - 1, 0)
+        total = sum(nums)
+        if abs(target) > total or (total - target) % 2 != 0:
+            return 0
+        
+        k = (total - target) // 2
+        dp = [[0] * (k + 1) for _ in range(n)]
+        
+
+        if nums[0] == 0:
+            dp[0][0] = 2
+        else:
+            dp[0][0] = 1
+        
+        if nums[0] != 0 and nums[0] <= k:
+            dp[0][nums[0]] = 1
+
+        
+        for i in range(1, n):
+            for t in range(k + 1):
+                not_take = dp[i - 1][t]
+                take = 0
+                if nums[i] <= t:
+                    take = dp[i - 1][t - nums[i]]
+                
+                dp[i][t] = take + not_take
+        
+        return dp[n - 1][k]
