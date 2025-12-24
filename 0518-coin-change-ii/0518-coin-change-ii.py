@@ -3,7 +3,7 @@ from functools import cache
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
         n = len(coins)
-        dp = [[0] * (amount + 1) for _ in range(n)]
+        dp = [0] * (amount + 1)
         
         # Top-Down solution written by myself
         # def solve(i, target):
@@ -26,18 +26,21 @@ class Solution:
         # Tabulation
         for target in range(amount + 1):
             if target % coins[0] == 0:
-                dp[0][target] = 1
+                dp[target] = 1
         
         for i in range(1, n):
+            curr = [0] * (amount + 1)
             for target in range(amount + 1):
-                not_take = dp[i - 1][target]
+                not_take = dp[target]
                 take = 0
                 if coins[i] <= target:
-                    take = dp[i][target - coins[i]]
+                    take = curr[target - coins[i]]
                 
-                dp[i][target] = take + not_take
+                curr[target] = take + not_take
+            
+            dp = curr[::]
                 
 
-        return dp[n - 1][amount]
+        return dp[amount]
 
             
