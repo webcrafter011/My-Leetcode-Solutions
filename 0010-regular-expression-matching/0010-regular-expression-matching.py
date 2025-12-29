@@ -1,7 +1,7 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         n, m = len(s), len(p)
-        dp = [[False] * (m + 1) for _ in range(n + 1)]
+        dp = [[-1] * (m + 1) for _ in range(n + 1)]
 
         
 
@@ -20,18 +20,22 @@ class Solution:
                     else:
                         return False
                 return True
-
+            
+            if dp[i][j] != -1:
+                return dp[i][j]
 
             if s[i] == p[j] or p[j] == '.':
-                return solve(i - 1, j - 1)
+                dp[i][j] = solve(i - 1, j - 1)
             elif p[j] == '*':
                 skip = solve(i, j - 2)
                 consume = False
                 if s[i] == p[j - 1] or p[j - 1] == '.':
                     consume = solve(i - 1, j)
 
-                return skip or consume
+                dp[i][j] = skip or consume
             else:
-                return False
+                dp[i][j] = False
+            
+            return dp[i][j]
         
         return solve(n - 1, m - 1)
