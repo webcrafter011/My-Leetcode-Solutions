@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2227-sum-of-subarray-ranges](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Stack
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1390-four-divisors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1390-four-divisors) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Memoization
 |  |
 | ------- |
@@ -525,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
