@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Bucket Sort
 |  |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Iterator
 |  |
