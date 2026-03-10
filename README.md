@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [2227-sum-of-subarray-ranges](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
