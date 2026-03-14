@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0051-n-queens) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
