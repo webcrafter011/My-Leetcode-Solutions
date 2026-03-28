@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [2227-sum-of-subarray-ranges](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Binary Search
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Simulation
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+| [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Tree
 |  |
 | ------- |
@@ -570,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
