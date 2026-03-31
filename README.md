@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
