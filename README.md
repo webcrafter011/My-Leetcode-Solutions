@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0493-reverse-pairs) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
