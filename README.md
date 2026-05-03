@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -617,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
