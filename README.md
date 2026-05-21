@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2784-check-if-array-is-good](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -643,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
