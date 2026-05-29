@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3453-separate-squares-i) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1390-four-divisors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
 |  |
