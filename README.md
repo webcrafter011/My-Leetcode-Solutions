@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1390-four-divisors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
