@@ -1,42 +1,57 @@
 class Solution(object):
-    def reversePairs(self, nums):
+    def reversePairs(self, arr):
         """
         :type nums: List[int]
         :rtype: int
         """
-        def merge_sort(arr, low, high):
-            if low >= high:
-                return 0
-            mid = (low + high) // 2
-            cnt = merge_sort(arr, low, mid)
-            cnt += merge_sort(arr, mid + 1, high)
+        return self.mergeSort(arr, 0, len(arr) - 1)
 
-            # count reverse pairs before merging
-            right = mid + 1
-            for i in range(low, mid + 1):
-                while right <= high and arr[i] > 2 * arr[right]:
-                    right += 1
-                cnt += (right - (mid + 1))
+    def mergeSort(self, arr, l, r):
+        if l >= r:
+            return 0
 
-            # standard merge
-            merge(arr, low, mid, high)
-            return cnt
+        mid = (l + r) // 2
+        
+        count = 0
 
-        def merge(arr, low, mid, high):
-            temp = []
-            left, right = low, mid + 1
-            while left <= mid and right <= high:
-                if arr[left] <= arr[right]:
-                    temp.append(arr[left])
-                    left += 1
-                else:
-                    temp.append(arr[right])
-                    right += 1
-            while left <= mid:
-                temp.append(arr[left]); left += 1
-            while right <= high:
-                temp.append(arr[right]); right += 1
-            for i in range(low, high + 1):
-                arr[i] = temp[i - low]
+        count += self.mergeSort(arr, l, mid)
+        count += self.mergeSort(arr, mid + 1, r)
 
-        return merge_sort(nums, 0, len(nums) - 1)
+        count += self.merge(arr, l, mid, r)
+    
+        return count
+    
+    def merge(self, arr, l, mid, r):
+        count = 0
+
+        j = mid + 1
+        for i in range(l, mid + 1):
+            while j <= r and arr[i] > 2 * arr[j]:
+                j += 1
+            count += j - (mid + 1)
+
+        temp = []
+        left, right = l, mid + 1
+
+        while left <= mid and right <= r:
+            if arr[left] <= arr[right]:
+                temp.append(arr[left])
+                left += 1
+            else:
+                temp.append(arr[right])
+                right += 1
+
+        while left <= mid:
+            temp.append(arr[left])
+            left += 1
+
+        while right <= r:
+            temp.append(arr[right])
+            right += 1
+
+        arr[l:r+1] = temp
+
+        return count 
+        
+        
+                        
