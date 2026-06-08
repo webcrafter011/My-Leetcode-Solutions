@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1895-largest-magic-square](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3453-separate-squares-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Divide and Conquer
