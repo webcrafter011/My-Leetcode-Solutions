@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
