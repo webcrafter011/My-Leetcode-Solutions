@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1895-largest-magic-square](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -715,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
