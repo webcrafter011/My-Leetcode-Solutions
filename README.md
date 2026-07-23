@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Geometry
 |  |
