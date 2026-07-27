@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Binary Search
 |  |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0494-target-sum) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0401-binary-watch) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Iterator
 |  |
