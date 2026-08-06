@@ -4,7 +4,7 @@ class Solution:
             return math.prod(list(map(int, str(d))))
         
 
-        while True:
+        for _ in range(10):
             total = dig_prod(n)
             if total % t == 0:
                 return n
