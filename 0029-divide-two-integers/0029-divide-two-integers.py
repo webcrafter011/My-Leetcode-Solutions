@@ -1,33 +1,27 @@
-class Solution(object):
-    def divide(self, dividend, divisor):
-        """
-        :type dividend: int
-        :type divisor: int
-        :rtype: int
-        """
-        ans = 0
-        sign = True
-        if dividend >= 0 and divisor < 0: sign = False
-        if dividend < 0 and divisor > 0: sign = False
+class Solution:
+    def divide(self, dividend: int, divisor: int) -> int:
+        quotient  = 0
+ 
+        neg = (dividend < 0) != (divisor < 0)
 
-        n = abs(dividend)
-        d = abs(divisor)
+        dividend = abs(dividend)
+        divisor = abs(divisor)
 
-        while n >= d:
-            count = 0
-            while n >= (d << (count + 1)):
-                count += 1
-            ans += 1 << count
-            n = n - (d << count)
-        
-        if ans == (1 << 31) and sign:
-            return 2**31 - 1
-        
-        if ans == (1 << 31) and not sign:
-            return -2**31
-        
-        if sign:
-            return ans
-        else:
-            return -ans
+        while dividend >= divisor:
+            shift = 0
+
+            while dividend >= (divisor << (shift + 1)):
+                shift += 1
             
+            quotient += 1 << shift
+            dividend -= divisor << shift
+        
+        if quotient == 2 ** 31 and neg:
+            return -2 ** 31
+        elif quotient == 2 ** 31 and not neg:
+            return 2 ** 31 - 1
+        
+        if neg:
+            return -quotient
+        else:
+            return quotient
