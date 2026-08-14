@@ -3,15 +3,13 @@ class Solution:
         res = []
         n = len(nums)
 
-        def build(i=0, arr=[]):
-            if i == n:
-                res.append(arr.copy())
-                return
+        for mask in range(2 ** n):
+            subset = []
+
+            for i in range(n):
+                if mask & (1 << i):
+                    subset.append(nums[i])
             
-            arr.append(nums[i])
-            build(i + 1, arr)
-            arr.pop()
-            build(i + 1, arr)
+            res.append(subset)
         
-        build()
         return res
