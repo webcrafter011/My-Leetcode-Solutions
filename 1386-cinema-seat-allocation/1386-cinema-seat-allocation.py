@@ -20,9 +20,7 @@ class Solution:
             sv = group_can_seat(r, 4, 8, res_rows)
             tv = group_can_seat(r, 6, 10, res_rows)
 
-            if fv and sv and tv:
-                count += 2
-            elif fv and tv:
+            if fv and tv:
                 count += 2
             elif fv or sv or tv:
                 count += 1                   
