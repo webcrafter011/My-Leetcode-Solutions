@@ -1,14 +1,15 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        nge_map = {}
+        n = len(nums2)
+        NGE = {}
         st = []
+
+        for i in range(n - 1, -1, -1):
+            while st and st[-1] < nums2[i]:
+                st.pop()
+
+            NGE[nums2[i]] = st[-1] if st else -1
+
+            st.append(nums2[i])
         
-        for num in nums2:
-            while st and st[-1] < num:
-                nge_map[st.pop()] = num
-            st.append(num)
-        
-        for num in st:
-            nge_map[num] = -1
-        
-        return [nge_map[num] for num in nums1]
+        return [NGE[num] for num in nums1]
