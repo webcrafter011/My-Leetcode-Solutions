@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3721-longest-balanced-subarray-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3721-longest-balanced-subarray-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
