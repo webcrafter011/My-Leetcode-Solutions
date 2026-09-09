@@ -10,8 +10,8 @@ class Solution:
             counts[s[i]] = counts.get(s[i], 0) + 1
             maxFreq = max(maxFreq, counts[s[i]])
 
-            while (i - j + 1) - maxFreq > k:
-                # maxFreq = 0
+            if (i - j + 1) - maxFreq > k:
+                maxFreq = 0
                 counts[s[j]] -= 1
                 j += 1
             
