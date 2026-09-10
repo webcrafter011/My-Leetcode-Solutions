@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0876-hand-of-straights](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
+| [0930-binary-subarrays-with-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0930-binary-subarrays-with-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0966-binary-subarrays-with-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-max-consecutive-ones-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
