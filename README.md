@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0876-hand-of-straights](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
