@@ -17,8 +17,8 @@ class Solution:
                         del h[nums[left]]
                     left += 1
                 
-                if len(h) <= goal:
-                    count += (right - left + 1)
+                
+                count += (right - left + 1)
             
             return count
         
