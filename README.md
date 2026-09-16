@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [3721-longest-balanced-subarray-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -903,4 +906,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
