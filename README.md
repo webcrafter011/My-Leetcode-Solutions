@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
