@@ -945,4 +945,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
