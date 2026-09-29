@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2227-sum-of-subarray-ranges](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Divide and Conquer
@@ -949,4 +952,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
