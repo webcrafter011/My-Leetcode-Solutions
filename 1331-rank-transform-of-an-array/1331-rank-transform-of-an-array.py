@@ -11,15 +11,10 @@ class Solution:
 
         while heap:
             el, i = heapq.heappop(heap)
-            if prev and prev == el:
-                res[i] = rank
-                
-            else:
-                res[i] = rank
+            res[i] = rank
                 
             if heap and heap[0][0] != el:
                 rank += 1
             
-            prev = el
         
         return res
