@@ -1,22 +1,19 @@
 class Solution:
-    def generateParenthesis(self, n: int) -> List[str]:
+    def generateParenthesis(self, n: int) -> list[str]:
         res = []
 
-        def build(st='(', op=1, cl=0):
-            if op > n:
-                return 
-            if op == n and op == cl:
-                res.append(st)
+        def build(s = '', op = 0, cnt = 0):
+            if len(s) == 2 * n:
+                if cnt == n:
+                    res.append(s)
                 return
             
-            if op != cl:
-                build(st + ')', op, cl + 1)
-            
-            build(st + '(', op + 1, cl)
-            
-            
+            if op < n:
+                build(s + '(', op + 1, cnt)
 
+            if op:
+                build(s + ')', op - 1, cnt + 1)
+        
         build()
 
         return res
-        
