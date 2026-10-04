@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0876-hand-of-straights](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -965,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
