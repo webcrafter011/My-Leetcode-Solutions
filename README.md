@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
