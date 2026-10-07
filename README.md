@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0547-number-of-provinces) |
