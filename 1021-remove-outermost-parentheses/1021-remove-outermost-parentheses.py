@@ -5,16 +5,13 @@ class Solution:
 
         for c in s:
             if c == '(':
-                if count == 0:
-                    count += 1
-                    continue
+                if count > 0:
+                    res.append(c)
                 count += 1
             else:
-                if count == 1:
-                    count -= 1
-                    continue
                 count -= 1
-
-            res.append(c)
+                if count > 0:
+                    res.append(c)
+                
         
         return ''.join(res)
