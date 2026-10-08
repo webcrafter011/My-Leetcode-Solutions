@@ -1,22 +1,20 @@
 class Solution:
     def removeOuterParentheses(self, s: str) -> str:
-        rem = [0] * len(s)
-        op = 0
+        res = []    
+        st = []
 
-        # mark the string that are supposed to be taken out 
-        for i, c in enumerate(s):
+        for c in s:
             if c == '(':
-                if op == 0:
-                    rem[i] = -1
-                op += 1
-            elif c == ')':
-                op -= 1
-                if op == 0:
-                    rem[i] = -1
+                if not st:
+                    st.append(c)
+                    continue
+                st.append(c)
+            else:
+                if len(st) == 1:
+                    st.pop()
+                    continue
+                st.pop()
+
+            res.append(c)
         
-        ans = ''
-        for i in range(len(s)):
-            if rem[i] != -1:
-                ans += s[i]
-        
-        return ans
+        return ''.join(res)
