@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Tree
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [1386-cinema-seat-allocation](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Iterator
