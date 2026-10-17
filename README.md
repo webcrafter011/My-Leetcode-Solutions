@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3721-longest-balanced-subarray-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3731-find-missing-elements) |
