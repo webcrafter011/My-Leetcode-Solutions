@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
