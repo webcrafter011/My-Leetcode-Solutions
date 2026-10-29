@@ -17,7 +17,7 @@ class Solution:
                 if cnt:
                     q.append((time + n, cnt))
             
-            if q and q[0][0] == time:
+            if q and q[0][0] <= time:
                 heapq.heappush(heap, q.popleft()[1])
 
         return time
