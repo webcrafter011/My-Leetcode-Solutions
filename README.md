@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1256-rank-transform-of-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1034-subarrays-with-k-different-integers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -1003,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
