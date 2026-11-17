@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
