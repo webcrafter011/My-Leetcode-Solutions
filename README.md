@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
