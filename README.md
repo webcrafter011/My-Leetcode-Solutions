@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1267-count-servers-that-communicate](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1390-four-divisors) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-max-consecutive-ones-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -997,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1390-four-divisors](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/webcrafter011/My-Leetcode-Solutions/tree/master/1406-stone-game-iii) |
